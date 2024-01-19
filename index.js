@@ -33,7 +33,7 @@ const scanFiles = (dir, outputFile) => {
 };
 
 // Replace 'path/to/your/react/project' with the actual path to your React project
-const projectDir = './Front-foodExplorer';
+const projectDir = 'path/to/your/react/project';
 
 // Replace 'output.txt' with the desired output file name
 const outputFile = 'output.txt';
